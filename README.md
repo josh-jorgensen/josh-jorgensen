@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Josh Jorgensen
-Strategy & Operations Leader | GenAI Systems Builder
+# Josh Jorgensen
+
+## Strategy & Operations Leader | GenAI Systems Builder
 
 I design and build AI-enabled systems for high-stakes policy and operational environments.
 
@@ -23,14 +24,14 @@ Currently, I am building retrieval-augmented generation (RAG) and evaluation pip
 
 I build and iterate systems end to end, with an emphasis on measurable reliability and real-world usability.
 
-Current Focus
+## Current Focus
 - Retrieval-augmented generation (RAG) system design and orchestration
 - Evaluation harness design, grounding benchmarks, and failure mode detection
 - Agentic workflow architecture for structured research and analysis
 - Metrics instrumentation, performance tracking, and quality monitoring
 - Translating long-term strategy into concrete execution plans and operating systems
 
-Tech Stack
+##Tech Stack
 - Python
 - SQL
 - RAG
