@@ -31,12 +31,6 @@ I build and iterate systems end to end, with an emphasis on measurable reliabili
 - Metrics instrumentation, performance tracking, and quality monitoring
 - Translating long-term strategy into concrete execution plans and operating systems
 
-## Tech Stack
-- Python
-- SQL
-- RAG
-- R
-
 ## Current Projects
 ### Briefcraft: AI-powered research and analysis system for international policy workflows.
 - Built a modular RAG pipeline with separate ingestion, embedding, retrieval, and generation components
