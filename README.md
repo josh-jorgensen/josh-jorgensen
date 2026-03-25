@@ -20,7 +20,7 @@ I design and build AI-enabled systems for high-stakes policy and operational env
 
 My background spans UN field operations, international policy advisory work, and military leadership. Across these roles, I have worked at the intersection of strategy, data, and execution—translating ambiguous requirements into structured workflows, governance systems, and decision-ready analysis.
 
-Currently, I am building retrieval-augmented generation (RAG) and evaluation pipelines to support structured policy analysis and institutional decision-making. My work focuses on grounding, reliability, measurable performance improvement, and responsible deployment in complex, politically sensitive contexts.
+Currently, I am building retrieval-augmented generation (RAG) with evaluation pipelines as well as an information management and visualization platform with human-in-the-loop AI workflows to support structured policy analysis and institutional decision-making. My work focuses on grounding, reliability, measurable performance improvement, and responsible deployment in complex, politically sensitive contexts.
 
 I build and iterate systems end to end, with an emphasis on measurable reliability and real-world usability.
 
@@ -43,6 +43,13 @@ I build and iterate systems end to end, with an emphasis on measurable reliabili
 - Experimented with ranking logic and context-window tradeoffs
 - Validated initial retrieval performance before system refactor into Briefcraft
 
+### Simtee: AI-assisted stakeholder mapping platform for research and strategy teams.
+- Building a structured platform for mapping stakeholders, objectives, relationships, and engagement context within project-based workspaces
+- Designing human-in-the-loop AI workflows for stakeholder discovery and profile enrichment, with suggested content held for review before publication
+- Creating dossier-style actor pages and configurable insight briefs to support research, planning, and engagement strategy
+- Supporting export into network-analysis tools to extend visualization and relationship mapping beyond the core product
+- Aimed at turning fragmented stakeholder analysis into a more usable system for decision-making and operational follow-through
+
 ### Skadi TSG: Terrain-signature geolocation prototype.
 - Exploring skyline / elevation-based matching using DEM data
 - Testing feature extraction and signature comparison approaches
@@ -51,7 +58,3 @@ I build and iterate systems end to end, with an emphasis on measurable reliabili
 ### dogwx: Lightweight weather interface.
 - TypeScript-based front-end project
 - Focused on clean UI, data fetching, and simple deployment
-
-### regia-landing: Static landing page for disseminating project information and positioning.
-- Messaging, structure, and lightweight deployment setup
-- Built to communicate technical capabilities to policy audiences
