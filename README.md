@@ -14,47 +14,43 @@ Here are some ideas to get you started:
 -->
 # Josh Jorgensen
 
-## Strategy & Operations Leader | GenAI Systems Builder
+## I build practical AI tools for policy, research, and operations.
 
-I design and build AI-enabled systems for high-stakes policy and operational environments.
-
-My background spans UN field operations, international policy advisory work, and military leadership. Across these roles, I have worked at the intersection of strategy, data, and execution—translating ambiguous requirements into structured workflows, governance systems, and decision-ready analysis.
+My background is in field operations, policy work, and military leadership. I’m now focused on building tools that help people work with large document sets, map stakeholders, and turn messy information into usable plans.
 
 Currently, I am building retrieval-augmented generation (RAG) with evaluation pipelines as well as an information management and visualization platform with human-in-the-loop AI workflows to support structured policy analysis and institutional decision-making. My work focuses on grounding, reliability, measurable performance improvement, and responsible deployment in complex, politically sensitive contexts.
 
 I build and iterate systems end to end, with an emphasis on measurable reliability and real-world usability.
 
 ## Current Focus
-- Retrieval-augmented generation (RAG) system design and orchestration
-- Evaluation harness design, grounding benchmarks, and failure mode detection
-- Agentic workflow architecture for structured research and analysis
-- Metrics instrumentation, performance tracking, and quality monitoring
-- Translating long-term strategy into concrete execution plans and operating systems
+- AI research tools for large document collections
+- Evaluation methods for grounded, cited outputs
+- Stakeholder mapping and decision-support workflows
+- Interfaces that make complex information easier to use
 
 ## Current Projects
 ### Briefcraft: AI-powered research and analysis system for international policy workflows.
-- Built a modular RAG pipeline with separate ingestion, embedding, retrieval, and generation components
-- Implemented evaluation loops to measure grounding accuracy, citation coverage, and reasoning consistency
-- Instrumented logging and regression checks to track failure modes after prompt or retrieval changes
-- Designed around real analyst tasks (mandate comparison, briefing drafts, cross-document synthesis) rather than generic QA patterns
+- Leverages official, public UN documents as the source of truth for international policy writing
+- Tailored platform for policy experts and researchers, built around real workflows
+- Includes checks for citation coverage and output quality
 
-### REGIA: Early prototype of the Briefcraft research assistant.
-- Tested ingestion pipelines over structured UN documents
-- Experimented with ranking logic and context-window tradeoffs
-- Validated initial retrieval performance before system refactor into Briefcraft
+### Simtee
 
-### Simtee: AI-assisted stakeholder mapping platform for research and strategy teams.
-- Building a structured platform for mapping stakeholders, objectives, relationships, and engagement context within project-based workspaces
-- Designing human-in-the-loop AI workflows for stakeholder discovery and profile enrichment, with suggested content held for review before publication
-- Creating dossier-style actor pages and configurable insight briefs to support research, planning, and engagement strategy
-- Supporting export into network-analysis tools to extend visualization and relationship mapping beyond the core product
-- Aimed at turning fragmented stakeholder analysis into a more usable system for decision-making and operational follow-through
+A stakeholder mapping tool for research and strategy teams.
+- Organizes stakeholders, objectives, relationships, and engagement context
+- Uses AI to suggest profile content, with human review before publication
+- Creates actor pages, insight briefs, and exports for network analysis
+- Helps turn fragmented stakeholder notes into a usable planning system
 
-### Skadi TSG: Terrain-signature geolocation prototype.
-- Exploring skyline / elevation-based matching using DEM data
-- Testing feature extraction and signature comparison approaches
-- Evaluating performance tradeoffs across geographic subsets
+### Skadi TSG
 
-### dogwx: Lightweight weather interface.
-- TypeScript-based front-end project
+A terrain-signature geolocation prototype.
+- Tests skyline and elevation-based matching using DEM data
+- Explores feature extraction and comparison methods
+- Evaluates performance across geographic areas
+
+### dogwx
+
+A lightweight weather interface.
+- Built with TypeScript
 - Focused on clean UI, data fetching, and simple deployment
