@@ -29,7 +29,8 @@ I build and iterate systems end to end, with an emphasis on measurable reliabili
 - Interfaces that make complex information easier to use
 
 ## Current Projects
-### Briefcraft: AI-powered research and analysis system for international policy workflows.
+### Briefcraft
+AI-powered research and analysis system for international policy workflows.
 - Leverages official, public UN documents as the source of truth for international policy writing
 - Tailored platform for policy experts and researchers, built around real workflows
 - Includes checks for citation coverage and output quality
@@ -38,7 +39,7 @@ I build and iterate systems end to end, with an emphasis on measurable reliabili
 
 A stakeholder mapping tool for research and strategy teams.
 - Organizes stakeholders, objectives, relationships, and engagement context
-- Uses AI to suggest profile content, with human review before publication
+- Uses AI to suggest profile content, with human review
 - Creates actor pages, insight briefs, and exports for network analysis
 - Helps turn fragmented stakeholder notes into a usable planning system
 
